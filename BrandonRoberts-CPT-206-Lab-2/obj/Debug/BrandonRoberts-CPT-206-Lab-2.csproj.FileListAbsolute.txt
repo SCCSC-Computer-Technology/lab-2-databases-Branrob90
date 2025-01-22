@@ -1,0 +1,12 @@
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\bin\Debug\City.mdf
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\bin\Debug\City_log.ldf
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\obj\Debug\BrandonRoberts-CPT-206-Lab-2.csproj.AssemblyReference.cache
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\obj\Debug\BrandonRoberts_CPT_206_Lab_2.Form1.resources
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\obj\Debug\BrandonRoberts_CPT_206_Lab_2.Properties.Resources.resources
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\obj\Debug\BrandonRoberts-CPT-206-Lab-2.csproj.GenerateResource.cache
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\obj\Debug\BrandonRoberts-CPT-206-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\obj\Debug\BrandonRoberts-CPT-206-Lab-2.exe
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\obj\Debug\BrandonRoberts-CPT-206-Lab-2.pdb
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\bin\Debug\BrandonRoberts-CPT-206-Lab-2.exe.config
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\bin\Debug\BrandonRoberts-CPT-206-Lab-2.exe
+C:\Users\branr\source\repos\BrandonRoberts-CPT-206-Lab-2\bin\Debug\BrandonRoberts-CPT-206-Lab-2.pdb
